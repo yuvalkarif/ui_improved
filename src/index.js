@@ -9,7 +9,3 @@ picComp();
 btn.addEventListener(`click`, function () {
   ul.classList.toggle(`is-visible`);
 });
-
-slideShow.addEventListener(`click`, () => {
-  slideShowFunc();
-});
